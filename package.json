@@ -27,6 +27,8 @@
   "homepage": "https://finance-education-web-app.vercel.app",
   "engines": {
     "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
   }
 }
-
